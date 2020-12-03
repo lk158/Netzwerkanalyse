@@ -1,4 +1,4 @@
-MG,IS,2
+from,to,weight
 MG,GO,2
 MG,AK,2
 MG,CY,3
@@ -54,3 +54,4 @@ DS,GO,1
 DS,IS,1
 DS,AK,1
 DS,CY,1
+MG,IS,2
